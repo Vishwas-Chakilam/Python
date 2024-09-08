@@ -1,5 +1,7 @@
 # Python Tutorial Repository
 
+![Python Tutorial Banner](https://github.com/your-username/python-tutorial/blob/main/assets/python-tutorial-banner.png)
+
 Welcome to the **Python Tutorial Repository**! This repo is designed for beginners, intermediate, and advanced Python programmers. It covers core Python concepts with examples, starting from the basics and advancing to more complex topics.
 
 ## Repository Structure
@@ -69,4 +71,4 @@ Feel free to open issues or submit pull requests if you'd like to contribute to 
 This repository is licensed under the MIT License.
 ```
 
-This `README.md` provides an overview of the repository, how to use it, and includes a basic folder structure. Feel free to customize it for your needs! Let me know when you're ready for the next file.
+Replace `https://github.com/your-username/python-tutorial/blob/main/assets/python-tutorial-banner.png` with the actual URL of your image. This URL can be obtained by navigating to the image file in your GitHub repository, right-clicking on the image, and selecting "Copy image address".
