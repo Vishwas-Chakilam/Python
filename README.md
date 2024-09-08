@@ -76,7 +76,7 @@ python-tutorial/
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/python-tutorial.git
+   git clone https://github.com/Vishwas-Chakilam/python-tutorial.git
    ```
 
 2. Navigate to the desired folder (e.g., `basics/`) and run the Python scripts:
