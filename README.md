@@ -50,8 +50,6 @@ python-tutorial/
 
 
 
-### Projects
-- **Simple Calculator**: A command-line calculator using Python.
 
 ## How to Use
 
