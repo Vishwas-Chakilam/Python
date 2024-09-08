@@ -1,6 +1,6 @@
 # Python Tutorial Repository
 
-![Python Tutorial Banner](https://github.com/your-username/python-tutorial/blob/main/assets/python-tutorial-banner.png)
+![Python Tutorial Banner]([https://github.com/your-username/python-tutorial/blob/main/assets/python-tutorial-banner.png](https://github.com/Vishwas-Chakilam/python/blob/main/Python%20Tutorial%20Image.jpg))
 
 Welcome to the **Python Tutorial Repository**! This repo is designed for beginners, intermediate, and advanced Python programmers. It covers core Python concepts with examples, starting from the basics and advancing to more complex topics.
 
