@@ -1,6 +1,6 @@
 # Python Tutorial Repository
 
-![Python Tutorial Banner]([https://github.com/your-username/python-tutorial/blob/main/assets/python-tutorial-banner.png](https://github.com/Vishwas-Chakilam/python/blob/main/Python%20Tutorial%20Image.jpg))
+![Python Tutorial Banner](https://github.com/Vishwas-Chakilam/python/blob/main/Python%20Tutorial%20Image.jpg)
 
 Welcome to the **Python Tutorial Repository**! This repo is designed for beginners, intermediate, and advanced Python programmers. It covers core Python concepts with examples, starting from the basics and advancing to more complex topics.
 
@@ -30,6 +30,7 @@ python-tutorial/
 - **04_operators.py**: Working with different operators.
 - **05_conditionals.py**: If-else statements and conditional logic.
 - **06_loops.py**: Using loops for iteration.
+- **07_api_interaction.py**: Fetch data from api in real time. 
 
 ### Intermediate
 - **01_functions.py**: Writing and using functions in Python.
@@ -39,15 +40,18 @@ python-tutorial/
 - **05_exceptions.py**: Error handling using exceptions.
 
 ### Advanced
-- **01_decorators.py**: Function decorators and their uses.
-- **02_generators.py**: Using generators for efficient data processing.
-- **03_multithreading.py**: Introduction to multithreading.
-- **04_async_programming.py**: Asynchronous programming in Python.
-- **05_context_managers.py**: Managing resources with `with` statements.
+-**Decorators**: Enhancing functions with additional behavior.
+-**Generators**: Efficiently handling large datasets using iterators.
+-**Multi-threading**: Executing multiple threads concurrently to optimize performance.
+-**Context Managers**: Managing resources efficiently with with statements.
+-**Web Scraping**: Extracting data from websites.
+-**Data Analysis**: Processing and analyzing data with Python libraries.
+-**API Interaction**: Communicating with web services and APIs.
+
+
 
 ### Projects
 - **Simple Calculator**: A command-line calculator using Python.
-- **Web Scraper**: Scraping a webpage using BeautifulSoup.
 
 ## How to Use
 
@@ -71,4 +75,3 @@ Feel free to open issues or submit pull requests if you'd like to contribute to 
 This repository is licensed under the MIT License.
 ```
 
-Replace `https://github.com/your-username/python-tutorial/blob/main/assets/python-tutorial-banner.png` with the actual URL of your image. This URL can be obtained by navigating to the image file in your GitHub repository, right-clicking on the image, and selecting "Copy image address".
